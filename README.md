@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Wieser145
-- 👀 I’m interested in Meteorology, Politics and Informatics
-- 🌱 I’m currently learning Meteorology and Informatics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👨‍💻 Hi, I’m Hannes Wieser – Software Developer & Data Analyst
 
-<!---
-Wieser145/Wieser145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌩️ Developing meteorological models and simulation frameworks
+
+🤖 Specializing in algorithms, high-performance computing & open-source
+
+🌱 Currently studying Computer Science & Meteorology, leveling up Java/C++/Python skills
